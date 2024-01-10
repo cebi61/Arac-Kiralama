@@ -1,0 +1,160 @@
+C:\Users\adilc\source\repos\AraçTablosu\AraçTablosu\bin\Debug\AraçTablosu.exe.config
+C:\Users\adilc\source\repos\AraçTablosu\AraçTablosu\bin\Debug\AraçTablosu.exe
+C:\Users\adilc\source\repos\AraçTablosu\AraçTablosu\bin\Debug\AraçTablosu.pdb
+C:\Users\adilc\source\repos\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.csproj.AssemblyReference.cache
+C:\Users\adilc\source\repos\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.Form1.resources
+C:\Users\adilc\source\repos\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.Properties.Resources.resources
+C:\Users\adilc\source\repos\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.csproj.GenerateResource.cache
+C:\Users\adilc\source\repos\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.csproj.CoreCompileInputs.cache
+C:\Users\adilc\source\repos\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.exe
+C:\Users\adilc\source\repos\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.pdb
+C:\Users\adilc\source\repos\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.Form3.resources
+C:\Users\adilc\source\repos\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.Form4.resources
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\AraçTablosu.exe.config
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\AraçTablosu.exe
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\AraçTablosu.pdb
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.csproj.AssemblyReference.cache
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.Form1.resources
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.Form3.resources
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.Form4.resources
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.Properties.Resources.resources
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.csproj.GenerateResource.cache
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.csproj.CoreCompileInputs.cache
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.exe
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.pdb
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\2003.mdb
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.Form2.resources
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\EnvDTE.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\stdole.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.MSXML.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.Form5.resources
+C:\Users\adilc\Desktop\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.csproj.CopyComplete
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\2003.mdb
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\AraçTablosu.exe.config
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\AraçTablosu.exe
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\AraçTablosu.pdb
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\EnvDTE.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\stdole.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\Microsoft.MSXML.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.csproj.AssemblyReference.cache
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.Form1.resources
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.Form2.resources
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.Form3.resources
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.Form4.resources
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.Form5.resources
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.Properties.Resources.resources
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.csproj.GenerateResource.cache
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.csproj.CoreCompileInputs.cache
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.csproj.CopyComplete
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.exe
+C:\Users\adilc\Desktop\eski projeler\AraçTablosu (2)\AraçTablosu\AraçTablosu\obj\Debug\AraçTablosu.pdb
